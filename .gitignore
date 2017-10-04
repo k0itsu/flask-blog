@@ -1,0 +1,8 @@
+# environments
+env/
+
+# git
+.git/
+
+# database file
+blog.db
